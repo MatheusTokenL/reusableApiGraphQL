@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "apollo-server": "^3.1.2",
+    "axios": "^0.21.1",
+    "graphql": "^15.5.1",
+    "ts-node-dev": "^1.1.8"
+  },
+  "name": "api-graphql",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node-dev server.ts --transpile-only --respawn"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

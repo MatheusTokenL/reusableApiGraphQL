@@ -1,0 +1,128 @@
+[
+    {
+        "id": 1,
+        "name": "Catia Duval",
+        "email": "catia.duval@example.com",
+        "username": "beautifulgorilla627",
+        "senha": "comics",
+        "celular": "077 666 38 38",
+        "foto": "https://randomuser.me/api/portraits/women/13.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Matthew Palmer",
+        "email": "matthew.palmer@example.com",
+        "username": "organiclion739",
+        "senha": "scooby",
+        "celular": "0762-513-278",
+        "foto": "https://randomuser.me/api/portraits/men/85.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Kim Bradley",
+        "email": "kim.bradley@example.com",
+        "username": "lazyostrich554",
+        "senha": "ontario",
+        "celular": "081-149-8243",
+        "foto": "https://randomuser.me/api/portraits/women/29.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Anita Mitchell",
+        "email": "anita.mitchell@example.com",
+        "username": "lazypanda364",
+        "senha": "rugby1",
+        "celular": "(198)-693-8994",
+        "foto": "https://randomuser.me/api/portraits/women/87.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Owen Dufour",
+        "email": "owen.dufour@example.com",
+        "username": "tinylion470",
+        "senha": "ireland",
+        "celular": "06-33-01-93-96",
+        "foto": "https://randomuser.me/api/portraits/men/12.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Ariane Lévesque",
+        "email": "ariane.levesque@example.com",
+        "username": "angrypanda698",
+        "senha": "qiang",
+        "celular": "977-097-2839",
+        "foto": "https://randomuser.me/api/portraits/women/68.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Michael Curtis",
+        "email": "michael.curtis@example.com",
+        "username": "sadfrog817",
+        "senha": "zachary1",
+        "celular": "081-765-2186",
+        "foto": "https://randomuser.me/api/portraits/men/59.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Aria Johnson",
+        "email": "aria.johnson@example.com",
+        "username": "smallkoala274",
+        "senha": "shutup",
+        "celular": "(615)-730-9951",
+        "foto": "https://randomuser.me/api/portraits/women/88.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Reginald Franklin",
+        "email": "reginald.franklin@example.com",
+        "username": "heavyzebra953",
+        "senha": "lover1",
+        "celular": "(539)-913-3938",
+        "foto": "https://randomuser.me/api/portraits/men/67.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Simon Møller",
+        "email": "simon.moller@example.com",
+        "username": "tinyzebra506",
+        "senha": "carter",
+        "celular": "82344440",
+        "foto": "https://randomuser.me/api/portraits/men/74.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Amorim Gonçalves",
+        "email": "amorim.goncalves@example.com",
+        "username": "goldenpanda233",
+        "senha": "airbus",
+        "celular": "(98) 9009-1994",
+        "foto": "https://randomuser.me/api/portraits/men/73.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Nicole Cole",
+        "email": "nicole.cole@example.com",
+        "username": "organicbear121",
+        "senha": "bonnie",
+        "celular": "(559)-485-5995",
+        "foto": "https://randomuser.me/api/portraits/women/8.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Martha Taylor",
+        "email": "martha.taylor@example.com",
+        "username": "lazycat213",
+        "senha": "katana",
+        "celular": "0791-122-828",
+        "foto": "https://randomuser.me/api/portraits/women/57.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Milja Ahonen",
+        "email": "milja.ahonen@example.com",
+        "username": "happymouse846",
+        "senha": "access1",
+        "celular": "046-554-63-60",
+        "foto": "https://randomuser.me/api/portraits/women/40.jpg"
+    }
+]
